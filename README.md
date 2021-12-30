@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tsungyuli
+👋 Hi, I’m @tsungyuli
 
 <!---
 tsungyuli/tsungyuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
